@@ -1,6 +1,4 @@
-% Proposal for Launching a B.Tech in Semiconductor Engineering
-% Sir C. R. Reddy College of Engineering (Autonomous), Eluru, Andhra Pradesh
-% Prepared by: Veerendra | Date: August 2025
+Proposal for Launching a B.Tech in Semiconductor Engineering
 
 ---
 
